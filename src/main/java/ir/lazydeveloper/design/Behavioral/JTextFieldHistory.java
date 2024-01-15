@@ -1,4 +1,4 @@
-package ir.lazydeveloper.design.behavior;
+package ir.lazydeveloper.design.Behavioral;
 
 import javax.swing.*;
 import java.util.LinkedList;

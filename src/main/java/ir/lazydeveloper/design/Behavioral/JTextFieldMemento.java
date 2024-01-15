@@ -1,4 +1,4 @@
-package ir.lazydeveloper.design.behavior;
+package ir.lazydeveloper.design.Behavioral;
 
 /**
  * Created by A_RAYANI on 1/15/2024

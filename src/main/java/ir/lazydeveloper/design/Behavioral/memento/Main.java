@@ -31,7 +31,7 @@ public class Main extends JPanel {
                 if ((e.getKeyCode() == KeyEvent.VK_Z) && ((e.getModifiers() & KeyEvent.CTRL_MASK) != 0)) {
                     jTextFieldHistory.undo();
                 } else if ((e.getKeyCode() == KeyEvent.SHIFT_MASK) && ((e.getModifiers() & KeyEvent.CTRL_MASK) != 0)) {
-                    jTextFieldHistory.redo();
+                    jTextFieldHistory.undo();
                 }
             }
         });
